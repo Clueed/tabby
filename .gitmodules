@@ -4,3 +4,6 @@
 [submodule "crates/llama-cpp-bindings/llama.cpp"]
 	path = crates/llama-cpp-bindings/llama.cpp
 	url = https://github.com/TabbyML/llama.cpp
+[submodule "experimental/cceval/cceval"]
+	path = experimental/cceval/cceval
+	url = https://github.com/amazon-science/cceval
